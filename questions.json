@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "question": "Which data structure uses LIFO (Last In First Out) order?",
+        "options": ["Queue", "Array", "Stack", "Linked List"],
+        "answer_index": 2
+    },
+    {
+        "id": 2,
+        "question": "In Electronics, what does a Diode primarily do?",
+        "options": ["Amplify current", "Allow current in one direction", "Store charge", "Resist current flow"],
+        "answer_index": 1
+    },
+    {
+        "id": 3,
+        "question": "What is the time complexity of Binary Search?",
+        "options": ["O(n)", "O(n^2)", "O(log n)", "O(1)"],
+        "answer_index": 2
+    },
+    {
+        "id": 4,
+        "question": "Which Python keyword is used to define a function?",
+        "options": ["func", "def", "function", "lambda"],
+        "answer_index": 1
+    },
+    {
+        "id": 5,
+        "question": "What does 'IoT' stand for?",
+        "options": ["Input of Technology", "Internet of Things", "Intranet of Tools", "Interchange of Text"],
+        "answer_index": 1
+    }
+]
